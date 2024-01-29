@@ -1,7 +1,7 @@
 <h1 align="center">སྐུ་གཟུགས་ བཟང་པོ། 🙏,ངའི་མིང་ Chimi Tshering ༼འཆི་མེད་ ཚི་རིང་།༽</h1>
 <h3 align="center">A passionate developer 🤖 from Bhutan ༼འབྲ྄ག་རྒྱལ་ཁབ།༽</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/designer-concept-illustration_6170426.htm#query=animated%20coding%20gif&position=49&from_view=search&track=ais&uuid=c9ba20ac-7f81-411d-8d5d-25016784d86b">
+<img align="right" alt="Coding" width="400" src="https://www.freepik.com/free-vector/designer-concept-illustration_6170426.htm#query=animated%20coding%20gif&position=49&from_view=search&track=ais&uuid=c9ba20ac-7f81-411d-8d5d-25016784d86b"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimigit&label=Profile%20views&color=0e75b6&style=flat" alt="chimigit" /> </p>
 
