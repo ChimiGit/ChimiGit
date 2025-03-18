@@ -1,10 +1,10 @@
 # Hey there :wave:
 
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/banner.png" alt="Hello world">
 
 <p align="center">
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/sagar-viradiya/count.svg" />
+  <img src="https://profile-counter.glitch.me/ChimiGit/count.svg" />
 </p>
 
 ## About me
