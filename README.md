@@ -1,6 +1,6 @@
 <!-- Dynamic Header Section -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+{Your-Name};{Your-Tagline}" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+{Chimi Tshering};{Your-Tagline}" alt="Typing Animation" />
   
   ![Profile Views](https://komarev.com/ghpvc/?username={username}&style=flat-square&color=blueviolet)
 </div>
