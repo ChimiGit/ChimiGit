@@ -1,3 +1,11 @@
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;700&display=swap');
+
+  body {
+    font-family: 'IBM Plex Mono', monospace;
+  }
+</style>
+
 # Hey there :wave:
 
 <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/banner.png" alt="Hello world">
