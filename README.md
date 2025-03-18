@@ -11,9 +11,8 @@
 
 Hi there 👋. I’m Chimi Tshering, a skilled and results-driven Developer with a strong background in app, web development.
 
-## Get in touch :coffee:
+# My GitHub contributions as a Game of Life
 
-- [Personal Blog](https://sagarviradiya.dev)
-- [Twitter](https://twitter.com/viradiya_sagar)
-- [Medium](https://medium.com/@sagarviradiya)
-- [LinkedIn](https://www.linkedin.com/in/sagarviradiya)
+[![GitHub Game of Life](https://github4life.herokuapp.com/ethomson.gif?z=6)](https://github4life.herokuapp.com/ethomson)
+
+(Be sure to click on it for the infinite scrolling version.)
