@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/banner.png" alt="Hello world">
 
-<p align="center" style="font-family: 'Geist Mono', monospace; font-weight: bold;">
+<p align="center">
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/ChimiGit/count.svg" />
 </p>
