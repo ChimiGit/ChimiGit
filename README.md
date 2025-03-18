@@ -19,3 +19,5 @@ Hi there 👋. I’m Chimi Tshering, a skilled and results-driven Developer with
 <p align="left">
 <a href="https://fb.com/https://www.facebook.com/chimed.tshering/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chimed.tshering/" height="30" width="40" /></a>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chimigit&show_icons=true&locale=en&layout=compact" alt="chimigit" /></p>
