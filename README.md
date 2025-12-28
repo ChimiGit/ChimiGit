@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on High Quality e-commerce
+🔭 I’m currently working on nothing
 
 
 ## 🌐 Socials:
