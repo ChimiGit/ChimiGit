@@ -1,6 +1,13 @@
 <div align="center">
 
-<p><code>chimigit@github ~ $ ./maintainer.sh</code></p>
+<!-- <p><code>chimigit@github ~ $ ./maintainer.sh</code></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/hero-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/hero-dark.svg" width="860" alt="Chimi Tshering, software engineer and freelancer from Bhutan" />
+</picture>
+</p>
 
 <p align="center">
 <picture>
@@ -8,9 +15,14 @@
   <img src="https://www.gitskins.com/api/section/system-scan?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Chimi Tshering animated maintainer system scan" />
 </picture>
 </p>
-</div>
+</div> -->
 
-<h2>About me</h2>
+<h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/about-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/about-dark.svg" alt="About me" />
+</picture>
+</h2>
 
 <p>Software engineer &amp; freelancer from Bhutan 🇧🇹, passionate about building innovative solutions that make a difference. I build web apps, portals, and systems that serve real users.</p>
 
@@ -18,7 +30,6 @@
 <li>💼 Freelance software engineer (2026 – present), building custom websites and full-stack systems for clients in Bhutan and beyond</li>
 <li>🏢 Previously Software Engineer at <strong>CloudBhutan</strong> (2021 – 2026), shipping 6+ projects for government and private clients used by thousands</li>
 <li>🎓 Bachelor of Computer Application, Gyalpozhing College of Information Technology (2017 – 2020)</li>
-<li>✍️ Writing on <a href="https://medium.com/@ctshering208">Medium</a></li>
 </ul>
 
 <table width="100%">
@@ -29,7 +40,12 @@
 </tr>
 </table>
 
-<h2>Featured work</h2>
+<h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/work-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/work-dark.svg" alt="Featured work" />
+</picture>
+</h2>
 
 <table width="100%">
 <tr>
@@ -46,7 +62,12 @@
 </tr>
 </table>
 
-<h2>Toolbox</h2>
+<!-- <h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/toolbox-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/toolbox-dark.svg" alt="Toolbox" />
+</picture>
+</h2>
 
 <p><code>chimigit@github ~ $ toolbox --list</code></p>
 
@@ -55,7 +76,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
   <img src="https://www.gitskins.com/api/section/stack?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Chimi Tshering open-source technology toolbox" />
 </picture>
-</p>
+</p> -->
 
 <table width="100%">
 <tr><td width="22%"><strong>Frontend</strong></td><td><code>React</code> · <code>Next.js</code> · <code>React Native</code> · <code>Astro</code> · <code>Tailwind</code></td></tr>
@@ -65,7 +86,12 @@
 <tr><td><strong>DevOps</strong></td><td><code>Docker</code> · <code>Kubernetes</code> · <code>Vercel</code> · <code>Digital Ocean</code> · <code>Git</code></td></tr>
 </table>
 
-<h2>Repositories worth exploring</h2>
+<h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/repos-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/repos-dark.svg" alt="Repositories worth exploring" />
+</picture>
+</h2>
 
 <p align="center">
 <picture>
@@ -74,16 +100,23 @@
 </picture>
 </p>
 
-<h2>Contribution activity</h2>
+<!-- <h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/activity-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/activity-dark.svg" alt="Contribution activity" />
+</picture>
+</h2>
 
 <p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="Chimi Tshering open-source signal" />
-</picture>
-</p>
+<img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/neofetch.svg" width="100%" alt="neofetch: Chimi Tshering, full-stack software engineer from Bhutan, 4.5+ years, open to freelance work" />
+</p> -->
 
-<h2>Contribution trail</h2>
+<h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/trail-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/trail-dark.svg" alt="Contribution trail" />
+</picture>
+</h2>
 
 <p align="center">
 <picture>
@@ -94,11 +127,16 @@
 
 <hr />
 
-<h2>Let's connect</h2>
+<h2>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/connect-light.svg" />
+  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/connect-dark.svg" alt="Let's connect" />
+</picture>
+</h2>
 
 <p>Open to freelance work and collaborations. Have a project in mind? Let's talk.</p>
 
-<p align="center"><a href="https://chimitshering.online">🌐 Website</a> &nbsp;·&nbsp; <a href="https://github.com/ChimiGit">GitHub</a> &nbsp;·&nbsp; <a href="https://medium.com/@ctshering208">Medium</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/chimed.tshering/">Facebook</a> &nbsp;·&nbsp; <a href="https://chimitshering.online/contact">Contact</a></p>
+<p align="center"><a href="https://chimitshering.online">🌐 Website</a> &nbsp;·&nbsp; <a href="https://medium.com/@ctshering208">Medium</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/chimed.tshering/">Facebook</a> &nbsp;·&nbsp; <a href="https://chimitshering.online/contact">Contact</a></p>
 
 <!-- <h2>Contribute together</h2>
 
