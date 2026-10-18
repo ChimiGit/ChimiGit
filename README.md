@@ -46,13 +46,7 @@
 </tr>
 </table>
 
-<h2>Tech stack</h2>
-
-<p>
-<code>React</code> · <code>Next.js</code> · <code>React Native</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Nest.js</code> · <code>Hono</code> · <code>Elysia</code> · <code>Astro</code> · <code>Tailwind</code> · <code>Sanity CMS</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>Vercel</code> · <code>Digital Ocean</code> · <code>Git</code>
-</p>
-
-<h2>Open-source toolbox</h2>
+<h2>Toolbox</h2>
 
 <p><code>chimigit@github ~ $ toolbox --list</code></p>
 
@@ -64,14 +58,11 @@
 </p>
 
 <table width="100%">
-<tr>
-<td width="17%" align="center"><strong>Astro</strong><br /><sub>59%</sub></td>
-<td width="17%" align="center"><strong>TypeScript</strong><br /><sub>28%</sub></td>
-<td width="17%" align="center"><strong>CSS</strong><br /><sub>7%</sub></td>
-<td width="17%" align="center"><strong>JavaScript</strong><br /><sub>3%</sub></td>
-<td width="17%" align="center"><strong>MDX</strong><br /><sub>2%</sub></td>
-<td width="17%" align="center"><strong>Dockerfile</strong><br /><sub>0%</sub></td>
-</tr>
+<tr><td width="22%"><strong>Frontend</strong></td><td><code>React</code> · <code>Next.js</code> · <code>React Native</code> · <code>Astro</code> · <code>Tailwind</code></td></tr>
+<tr><td><strong>Backend</strong></td><td><code>Nest.js</code> · <code>Hono</code> · <code>Elysia</code> · <code>Sanity CMS</code></td></tr>
+<tr><td><strong>Languages</strong></td><td><code>TypeScript</code> · <code>JavaScript</code></td></tr>
+<tr><td><strong>Databases</strong></td><td><code>PostgreSQL</code> · <code>MySQL</code></td></tr>
+<tr><td><strong>DevOps</strong></td><td><code>Docker</code> · <code>Kubernetes</code> · <code>Vercel</code> · <code>Digital Ocean</code> · <code>Git</code></td></tr>
 </table>
 
 <h2>Repositories worth exploring</h2>
