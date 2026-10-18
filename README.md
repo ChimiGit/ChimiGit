@@ -10,17 +10,47 @@
 </p>
 </div>
 
-<h2>Why I build in public</h2>
+<h2>About me</h2>
+
+<p>Software engineer &amp; freelancer from Bhutan 🇧🇹, passionate about building innovative solutions that make a difference. I build web apps, portals, and systems that serve real users.</p>
+
+<ul>
+<li>💼 Freelance software engineer (2026 – present), building custom websites and full-stack systems for clients in Bhutan and beyond</li>
+<li>🏢 Previously Software Engineer at <strong>CloudBhutan</strong> (2021 – 2026), shipping 6+ projects for government and private clients used by thousands</li>
+<li>🎓 Bachelor of Computer Application, Gyalpozhing College of Information Technology (2017 – 2020)</li>
+<li>✍️ Writing on <a href="https://medium.com/@ctshering208">Medium</a></li>
+</ul>
 
 <table width="100%">
 <tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Astro</code> · <code>TypeScript</code> · <code>CSS</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>7 public repositories · 1 stars</p></td>
-<td width="33%" valign="top"><h3>Contribution</h3><p>858 contributions · 186 active days</p></td>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>Frontend</code> · <code>Backend</code> · <code>Full-stack</code></p></td>
+<td width="33%" valign="top"><h3>Experience</h3><p>4.5+ years · 6+ projects delivered</p></td>
+<td width="33%" valign="top"><h3>Deploys on</h3><p><code>Vercel</code> · <code>Digital Ocean</code> · <code>VPS</code></p></td>
 </tr>
 </table>
 
-<p>Building in public, documenting the work, and making the next contribution easier.</p>
+<h2>Featured work</h2>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top"><h3>Gelephu Mindfulness City</h3><p>Official website for GMC, Bhutan's Special Administrative Region, an economic hub blending mindful prosperity with modern development.</p></td>
+<td width="50%" valign="top"><h3>Bhutan Immigration Portal</h3><p>Official immigration services portal (immi.gov.bt) for visa, permit, and immigration applications.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>RSTA Portal (eRaLIS)</h3><p>Official Bhutan RSTA online portal for transport and licensing services.</p></td>
+<td width="50%" valign="top"><h3>Paro FC</h3><p>Official club website with live standings, fixtures, squad info, merch shop, academy programs, and Paro FC TV.</p></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><h3>Kathok Membership Portal</h3><p>International membership system with payment gateway integration for Kathok Bhutan.</p></td>
+<td width="50%" valign="top"><h3>NG Clean</h3><p>Perth cleaning service site with an instant pricing calculator, service comparison, and online booking.</p></td>
+</tr>
+</table>
+
+<h2>Tech stack</h2>
+
+<p>
+<code>React</code> · <code>Next.js</code> · <code>React Native</code> · <code>TypeScript</code> · <code>JavaScript</code> · <code>Nest.js</code> · <code>Hono</code> · <code>Elysia</code> · <code>Astro</code> · <code>Tailwind</code> · <code>Sanity CMS</code> · <code>PostgreSQL</code> · <code>MySQL</code> · <code>Docker</code> · <code>Kubernetes</code> · <code>Vercel</code> · <code>Digital Ocean</code> · <code>Git</code>
+</p>
 
 <h2>Open-source toolbox</h2>
 
@@ -53,12 +83,6 @@
 </picture>
 </p>
 
-<table width="100%">
-<tr>
-
-</tr>
-</table>
-
 <h2>Contribution activity</h2>
 
 <p align="center">
@@ -79,7 +103,13 @@
 
 <hr />
 
-<h2>Contribute together</h2>
+<h2>Let's connect</h2>
+
+<p>Open to freelance work and collaborations. Have a project in mind? Let's talk.</p>
+
+<p align="center"><a href="https://chimitshering.online">🌐 Website</a> &nbsp;·&nbsp; <a href="https://github.com/ChimiGit">GitHub</a> &nbsp;·&nbsp; <a href="https://medium.com/@ctshering208">Medium</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/chimed.tshering/">Facebook</a> &nbsp;·&nbsp; <a href="https://chimitshering.online/contact">Contact</a></p>
+
+<!-- <h2>Contribute together</h2>
 
 <p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
 
@@ -88,4 +118,4 @@
   <img src="https://www.gitskins.com/api/section/social?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Chimi Tshering community links" />
 </picture></p>
 <p align="center"><a href="https://github.com/chimigit">GitHub</a> &nbsp;·&nbsp; <a href="https://chimitshering.online">Website</a></p>
-<p align="center"><sub>Chimi Tshering · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center"><sub>Chimi Tshering · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> -->
