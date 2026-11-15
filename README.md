@@ -5,7 +5,7 @@
 
 <sub>The window shows the weather in Thimphu right now. The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
 
-<a href="https://github.com/chimigit">GitHub</a> · <a href="https://chimitshering.online">Website</a>
+<a href="https://chimitshering.online">Website</a>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-about?username=chimigit&mode=light&v=2026-11-11" />
