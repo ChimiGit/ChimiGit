@@ -1,150 +1,32 @@
-<div align="center">
-
-<!-- <p><code>chimigit@github ~ $ ./maintainer.sh</code></p>
-
-<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/hero-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/hero-dark.svg" width="860" alt="Chimi Tshering, software engineer and freelancer from Bhutan" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=chimigit&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-room?username=chimigit&mode=dark&v=2026-11-11" width="100%" alt="Chimi Tshering's pixel studio" />
 </picture>
-</p>
 
-<p align="center">
+<sub>The window shows the weather in Thimphu right now. The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
+
+<a href="https://github.com/chimigit">GitHub</a> · <a href="https://chimitshering.online">Website</a>
+
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/system-scan?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="Chimi Tshering animated maintainer system scan" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-about?username=chimigit&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/studio-about?username=chimigit&mode=dark&v=2026-11-11" width="100%" alt="About Chimi Tshering: Frontend or full-stack engineer" />
 </picture>
-</p>
-</div> -->
 
-<h2>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/about-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/about-dark.svg" alt="About me" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=chimigit&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-hud?username=chimigit&mode=dark&v=2026-11-11" width="100%" alt="Commits, pull requests, stars and best streak" />
 </picture>
-</h2>
 
-<p>Software engineer &amp; freelancer from Bhutan 🇧🇹, passionate about building innovative solutions that make a difference. I build web apps, portals, and systems that serve real users.</p>
-
-<ul>
-<li>💼 Freelance software engineer (2026 – present), building custom websites and full-stack systems for clients in Bhutan and beyond</li>
-<li>🏢 Previously Software Engineer at <strong>CloudBhutan</strong> (2021 – 2026), shipping 6+ projects for government and private clients used by thousands</li>
-<li>🎓 Bachelor of Computer Application, Gyalpozhing College of Information Technology (2017 – 2020)</li>
-</ul>
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top"><h3>Focus</h3><p><code>Frontend</code> · <code>Backend</code> · <code>Full-stack</code></p></td>
-<td width="33%" valign="top"><h3>Experience</h3><p>4.5+ years · 6+ projects delivered</p></td>
-<td width="33%" valign="top"><h3>Deploys on</h3><p><code>Vercel</code> · <code>Digital Ocean</code> · <code>VPS</code></p></td>
-</tr>
-</table>
-
-<h2>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/work-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/work-dark.svg" alt="Featured work" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-header?username=chimigit&title=%3E+Projects&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-header?username=chimigit&title=%3E+Projects&mode=dark&v=2026-11-11" width="100%" alt="Projects" />
 </picture>
-</h2>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top"><h3>Gelephu Mindfulness City</h3><p>Official website for GMC, Bhutan's Special Administrative Region, an economic hub blending mindful prosperity with modern development.</p></td>
-<td width="50%" valign="top"><h3>Bhutan Immigration Portal</h3><p>Official immigration services portal (immi.gov.bt) for visa, permit, and immigration applications.</p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3>RSTA Portal (eRaLIS)</h3><p>Official Bhutan RSTA online portal for transport and licensing services.</p></td>
-<td width="50%" valign="top"><h3>Paro FC</h3><p>Official club website with live standings, fixtures, squad info, merch shop, academy programs, and Paro FC TV.</p></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><h3>Kathok Membership Portal</h3><p>International membership system with payment gateway integration for Kathok Bhutan.</p></td>
-<td width="50%" valign="top"><h3>NG Clean</h3><p>Perth cleaning service site with an instant pricing calculator, service comparison, and online booking.</p></td>
-</tr>
-</table>
+<a href="https://github.com/ChimiGit/bhutan-regions"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=chimigit&i=0&r=bhutan-regions&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=chimigit&i=0&r=bhutan-regions&mode=dark&v=2026-11-11" width="49%" alt="bhutan-regions: " /></picture></a>
 
-<!-- <h2>
 <picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/toolbox-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/toolbox-dark.svg" alt="Toolbox" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-log?username=chimigit&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/studio-log?username=chimigit&mode=dark&v=2026-11-11" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
 </picture>
-</h2>
 
-<p><code>chimigit@github ~ $ toolbox --list</code></p>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="Chimi Tshering open-source technology toolbox" />
-</picture>
-</p> -->
-
-<table width="100%">
-<tr><td width="22%"><strong>Frontend</strong></td><td><code>React</code> · <code>Next.js</code> · <code>React Native</code> · <code>Astro</code> · <code>Tailwind</code></td></tr>
-<tr><td><strong>Backend</strong></td><td><code>Nest.js</code> · <code>Hono</code> · <code>Elysia</code> · <code>Sanity CMS</code></td></tr>
-<tr><td><strong>Languages</strong></td><td><code>TypeScript</code> · <code>JavaScript</code></td></tr>
-<tr><td><strong>Databases</strong></td><td><code>PostgreSQL</code> · <code>MySQL</code></td></tr>
-<tr><td><strong>DevOps</strong></td><td><code>Docker</code> · <code>Kubernetes</code> · <code>Vercel</code> · <code>Digital Ocean</code> · <code>Git</code></td></tr>
-</table>
-
-<h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/repos-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/repos-dark.svg" alt="Repositories worth exploring" />
-</picture>
-</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&repos=chimigit%2Fbhutan-regions&v=oss-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&repos=chimigit%2Fbhutan-regions&v=oss-projects-1&mode=dark" width="860" alt="Chimi Tshering maintainer repositories" />
-</picture>
-</p>
-
-<!-- <h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/activity-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/activity-dark.svg" alt="Contribution activity" />
-</picture>
-</h2>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/neofetch.svg" width="100%" alt="neofetch: Chimi Tshering, full-stack software engineer from Bhutan, 4.5+ years, open to freelance work" />
-</p> -->
-
-<h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/trail-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/trail-dark.svg" alt="Contribution trail" />
-</picture>
-</h2>
-
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&v=oss-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="Chimi Tshering contribution trail" />
-</picture>
-</p>
-
-<hr />
-
-<h2>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/connect-light.svg" />
-  <img src="https://raw.githubusercontent.com/ChimiGit/ChimiGit/main/resources/svg/connect-dark.svg" alt="Let's connect" />
-</picture>
-</h2>
-
-<p>Open to freelance work and collaborations. Have a project in mind? Let's talk.</p>
-
-<p align="center"><a href="https://chimitshering.online">🌐 Website</a> &nbsp;·&nbsp; <a href="https://medium.com/@ctshering208">Medium</a> &nbsp;·&nbsp; <a href="https://www.facebook.com/chimed.tshering/">Facebook</a> &nbsp;·&nbsp; <a href="https://chimitshering.online/contact">Contact</a></p>
-
-<!-- <h2>Contribute together</h2>
-
-<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
-
-<p align="center"><picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&v=oss-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=chimigit&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F86051257%3Fu%3D77972d3b6a57bd9105f223213a57348558a57a38%26v%3D4&v=oss-social-1&mode=dark" width="100%" alt="Chimi Tshering community links" />
-</picture></p>
-<p align="center"><a href="https://github.com/chimigit">GitHub</a> &nbsp;·&nbsp; <a href="https://chimitshering.online">Website</a></p>
-<p align="center"><sub>Chimi Tshering · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p> -->
+<sub>Pixel Studio · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
